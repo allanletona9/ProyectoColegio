@@ -1,0 +1,2 @@
+# ProyectoColegio
+Proyecto para colegios.
